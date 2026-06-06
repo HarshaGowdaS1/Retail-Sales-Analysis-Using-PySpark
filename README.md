@@ -14,10 +14,31 @@ This project performs Exploratory Data Analysis (EDA) on a large-scale internati
 - Generate meaningful business insights through visualization
 
 ## Dataset Information
-- Dataset: Online Retail Dataset
-- Records: 541,909
-- Columns: 8
-- Source: UCI Machine Learning Repository / Online Retail Dataset
+## Dataset
+
+The dataset used in this project is available through Google Drive.
+
+### Download Dataset
+https://drive.google.com/file/d/1kHzc6CeRv4_-C7GChJqrcj8PbCvqHt4H/view?usp=sharing
+
+### Dataset Information
+- Dataset Name: Online Retail Dataset
+- Total Records: 541,909
+- Total Features: 8
+- Format: CSV
+
+### Features
+- InvoiceNo
+- StockCode
+- Description
+- Quantity
+- InvoiceDate
+- UnitPrice
+- CustomerID
+- Country
+
+### Original Source
+UCI Machine Learning Repository – Online Retail Dataset
 
 ### Dataset Attributes
 - InvoiceNo
