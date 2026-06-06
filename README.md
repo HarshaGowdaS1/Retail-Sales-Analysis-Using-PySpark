@@ -95,6 +95,19 @@ UCI Machine Learning Repository – Online Retail Dataset
 - Identified geographic concentration of sales.
 - Derived business insights for decision making.
 
+## Project Outputs
+
+### Dataset Snapshot
+![Dataset Snapshot](Figure_1.png)
+
+### Statistics Summary
+![Statistics Summary](Figure_2.png)
+
+### Monthly Transaction Count
+![Monthly Transaction Count](Figure_3.png)
+
+### Monthly Transaction Trend
+![Monthly Transaction Trend](Figure_4.png)
 ## Future Enhancements
 - Customer Segmentation using RFM Analysis
 - Demand Forecasting
